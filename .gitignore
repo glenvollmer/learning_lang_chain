@@ -1,5 +1,6 @@
 .DS_Store
 share/
+feast_repo/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
